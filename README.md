@@ -92,3 +92,7 @@ To become a skilled Web Developer
 
 ## Hobbies
 Coding, Learning New Things, and Exploring Technology
+
+
+## Thank You
+Thank you for visiting my profile!
