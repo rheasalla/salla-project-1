@@ -68,3 +68,7 @@ git push
 ```
 
 GitHub Pages publishes pushed updates automatically when branch deployment is enabled.
+
+
+## Skills
+HTML, CSS, and Creative Design
