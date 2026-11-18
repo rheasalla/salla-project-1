@@ -88,3 +88,7 @@ Feel free to reach out to me on GitHub!
 
 ## Goals
 To become a skilled Web Developer
+
+
+## Hobbies
+Coding, Learning New Things, and Exploring Technology
