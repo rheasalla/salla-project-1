@@ -80,3 +80,7 @@ Project 1 - Personal Portfolio Website
 
 ## Education
 Student - Learning Web Development
+
+
+## Contact
+Feel free to reach out to me on GitHub!
