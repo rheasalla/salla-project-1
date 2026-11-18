@@ -72,3 +72,7 @@ GitHub Pages publishes pushed updates automatically when branch deployment is en
 
 ## Skills
 HTML, CSS, and Creative Design
+
+
+## Projects
+Project 1 - Personal Portfolio Website
