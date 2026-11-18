@@ -17,6 +17,9 @@ salla-project-1/
 
 The portfolio uses the personal details Rhea supplied. Suggested strengths are framed as developing interests, not as unconfirmed programming proficiency. The site does not publish private contact information.
 
+## About
+BSIT Student at Kabankalan Catholic College
+
 ## Preview on your computer
 
 Open `index.html` in a web browser. For a local web server, open a terminal in this folder and run:
