@@ -96,3 +96,7 @@ Coding, Learning New Things, and Exploring Technology
 
 ## Thank You
 Thank you for visiting my profile!
+
+
+## Fun Fact
+I love learning new things every day!
