@@ -76,3 +76,7 @@ HTML, CSS, and Creative Design
 
 ## Projects
 Project 1 - Personal Portfolio Website
+
+
+## Education
+Student - Learning Web Development
